@@ -12,7 +12,7 @@
 * 🌱 I’m currently learning **Back-End Development**.
 * 🤝 I’m looking to collaborate on **OPEN SOURCE CONTRIBUTION PROJECTS**.
 * ❓ I’m seeking help with **DATA-STRUCTURE AND ALGORITHMS (DSA)**.
-* 👨‍💻 All of my projects are available at **[NA](NA)** (Please update this link when available!).
+* 👨‍💻 All of my projects are available at **[NA](NA)**.
 * 💬 Ask me about **Java, HTML, CSS, MySQL & Python**.
 * 📫 How to reach me: **sudiptobhadra9c.jssp@gmail.com**
 
@@ -33,13 +33,18 @@
 ## 🔗 Connect with me
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/sudipto-bhadra-7b0424330" target="_blank">
+  <a href="https://linkedin.com/in/sudipto-bhadra-7b0424330" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Sudipto Bhadra LinkedIn" height="30" width="40" />
   </a>
   <a href="https://www.instagram.com/sudipto_bhadra" target="_blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Sudipto Bhadra Instagram" height="30" width="40" />
   </a>
+  <a href="https://discord.gg/Czuwp7tA" target="_blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Sudipto Bhadra Discord" height="30" width="40" />
+  </a>
 </p>
+
+**Feel free to connect and collaborate with me!**
 <br>
 
 ---
