@@ -63,9 +63,8 @@
 ---
 
 ## 🏆 GitHub Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sudipto-2005&theme=radical&margin-w=10" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy.vercel.app/?username=SUDIPTO-2005&theme=darkhub&margin-w=15" />
 </p>
 
 ---
